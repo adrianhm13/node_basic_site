@@ -1,0 +1,1 @@
+Micro project with Node.js to learn the basics of the backend and create a server.
