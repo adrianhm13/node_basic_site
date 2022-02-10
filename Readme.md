@@ -1,1 +1,1 @@
-Micro project with Node.js to learn the basics of the backend and create a server.
+Micro project with Node.js to learn the basics of the backend and how to create a server with Express and Node.js vanilla (both ways).
