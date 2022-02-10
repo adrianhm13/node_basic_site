@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/adrianhm13/node_basic_site#readme",
   "dependencies": {
+    "express": "^4.17.2",
     "nodemon": "^2.0.15"
   }
 }
